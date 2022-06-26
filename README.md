@@ -1,3 +1,6 @@
+### Ex No. 7
+### Date:
+
 # Inferencing Propositional Logic Sentences
 
 ## AIM
